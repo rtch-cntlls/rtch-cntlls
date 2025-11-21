@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi there! 👋 I’m rtchcntlls, a passionate developer who loves building practical and creative solutions.  <br>- 💻 Skilled in ASP.NET, ASP.NET Core, PHP, Laravel, JavaScript, TailwindCSS, Bootstrap and MySQL  <br>- 🌐 Interested in Web Development and UI/UX<br>- 🎯 Currently working on: Small project systems like E-commerce and Management System.<br>- 📚 Always learning new tools and frameworks to improve my craft  <br><br>
+<br><br>Hi there! 👋 I’m rtchcntlls, a passionate developer who loves building practical and creative solutions.  <br>- 💻 Skilled in PHP, Laravel, TailwindCSS, Bootstrap and MySQL  <br>- 🌐 Interested in Web Development and UI/UX
 
 
 # 💻 Tech Stack:
